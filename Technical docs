@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical Documentation Page</title>
+  <link rel="stylesheet" href="styles.css" >
+  <body>
+    <nav id="navbar">
+      <header>C# Technical documentation</header>
+      <ul>
+        <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+        <li><a class="nav-link" href="#What_you_should_already_know">What you should already know</a></li>
+        <li><a class="nav-link" href="#C#_and_C++">C# and C++</a></li>
+        <li><a class="nav-link" href="#Hello_world">Hello world</a></li>
+        <li><a class="nav-link" href="#Variables">Variables</a></li>
+        <li><a class="nav-link" href="#Declaring_variables">Declaring variables</a></li>
+        <li><a class="nav-link" href="#Variable_scope">Variable scope</a></li>
+        <li><a class="nav-link" href="#Global_variables">Global variables</a></li>
+        <li><a class="nav-link" href="#Constants">Constants</a></li>
+        <li><a class="nav-link" href="#Data_types">Data types</a></li>
+        <li><a class="nav-link" href="#if...else_statements">if...else statements</a></li>
+        <li><a class="nav-link" href="#While_statement">While statement</a></li>
+        <li><a class="nav-link" href="#Function_declarations">Function declarations</a></li>
+        <li><a class="nav-link" href="#Reference">Reference</a></li>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <article>
+          <p>C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. This tour provides an overview of the major components of the language in C# 11 and earlier.</p>
+          <ul>
+            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+            <li>Aliquam tincidunt mauris eu risus.</li>
+            <li>Vestibulum auctor dapibus neque.</li>
+          </ul>
+        </article>
+      </section>
+      <section class="main-section" id="What_you_should_already_know">
+        <header>What you should already know</header>
+        <article>
+          <p>This guide assumes you have basic knowledge of the following basic background</p>
+          <ul>
+            <li>Basic computer knowledge such as working with command-line, file systems, and installing applications such as compilers, interpreters, etc.</li>
+            <li>Knowledge of object-oriented programming.</li>
+            <li>Basic knowledge of C, C++, or Java just to have a slight understanding of the syntax of C#.</li>
+          </ul>
+        </article>
+      </section>
+      <section class="main-section" id="C#_and_C++">
+        <header>C# and C++</header>
+        <article>
+          <p>C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.</p>
+          <p>Both languages are object-oriented and based on C. Moreover, C# is based on C++, which makes them quite similar.</p>
+          <p>Those not fluent in either language could easily mistake one for the other by glancing at the code.</p>
+        </article>
+      </section>
+      <section class="main-section" id="Hello_world">
+        <header>Hello world</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Variables">
+        <header>Variables</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Declaring_variables">
+        <header>Declaring variables</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Variable_scope">
+        <header>Variable scope</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Global_variables">
+        <header>Global variables</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Constants">
+        <header>Constants</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Data_types">
+        <header>Data types</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="if...else_statements">
+        <header>if...else statements</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="While_statement">
+        <header>While statement</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Function_declarations">
+        <header>Function declarations</header>
+        <p></p>
+        <code></code>
+        <code></code>
+      </section>
+      <section class="main-section" id="Reference">
+        <header>Reference</header>
+      </section>
+    </main>
+  </body>
+</html>
